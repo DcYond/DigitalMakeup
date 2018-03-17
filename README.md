@@ -3,6 +3,7 @@ This repository shows a demo of real-time Digital Makeup for a face. It can tran
 
 
 how to use?
+-
 vs2015 opencv3.1.0
 
 use vs2015 to open the project, modify the video file path, and run it.
