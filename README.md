@@ -1,5 +1,5 @@
 # DigitalMakeup
-This repository shows a demo of real-time Digital Makeup for a face. It can transference the hair style, foundation make-up, eyelash, lipstick into your face, and shows the synthesis result for you in real-time
+This repository shows 
 
 
 how to use?
@@ -10,4 +10,5 @@ use vs2015 to open the project, modify the video file path, and run it.
 
 Demo
 -
+a video [demo]() can be find in youku
 ![](https://github.com/DcYond/DigitalMakeup/blob/master/demo.png)
