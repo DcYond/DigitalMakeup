@@ -10,5 +10,5 @@ use vs2015 to open the project, modify the video file path, and run it.
 
 Demo
 -
-a video [demo]() can be find in youku
+a video [demo](http://v.youku.com/v_show/id_XMzQ3MDg2MzE0OA==.html?spm=a2h3j.8428770.3416059.1) can be find in youku
 ![](https://github.com/DcYond/DigitalMakeup/blob/master/demo.png)
