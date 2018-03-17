@@ -9,5 +9,5 @@ vs2015 opencv3.1.0
 use vs2015 to open the project, modify the video file path, and run it.
 
 Demo
-
-![alt](URL https://github.com/DcYond/DigitalMakeup/blob/master/demo.png image demo)
+-
+![](https://github.com/DcYond/DigitalMakeup/blob/master/demo.png)
