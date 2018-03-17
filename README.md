@@ -9,4 +9,4 @@ use vs2015 to open the project, modify the video file path, and run it.
 
 Demo
 
-![image demo](https://github.com/DcYond/DigitalMakeup/blob/master/demo.png image demo)
+![alt](URL https://github.com/DcYond/DigitalMakeup/blob/master/demo.png image demo)
