@@ -242,7 +242,8 @@ int main(int argc,char** argv)
 			cv::imshow("vid", Img);
 		}
 		
-		cv::waitKey(1);
+		if(cv::waitKey(1) > 0)
+			break;
 		video_capture >> Img;
 
 	}

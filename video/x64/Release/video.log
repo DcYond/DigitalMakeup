@@ -1,0 +1,37 @@
+﻿  main_video.cpp
+E:\github\DigitalMakeup\video\3rdParty\OpenCV3.1\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\github\DigitalMakeup\video\3rdParty\OpenCV3.1\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\github\DigitalMakeup\video\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\github\DigitalMakeup\video\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\github\digitalmakeup\video\include\Patch.h(57): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+main_video.cpp(18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main_video.cpp(19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main_video.cpp(38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main_video.cpp(39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main_video.cpp(125): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main_video.cpp(126): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main_video.cpp(135): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main_video.cpp(136): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main_video.cpp(137): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main_video.cpp(138): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main_video.cpp(139): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main_video.cpp(140): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main_video.cpp(160): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main_video.cpp(161): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  已完成代码的生成
+KeyPointsDetector.lib(KeyPointsCore.obj) : warning LNK4099: 未找到 PDB“KeyPointsDetector.pdb”(使用“KeyPointsDetector.lib(KeyPointsCore.obj)”或在“E:\github\DigitalMakeup\x64\Release\KeyPointsDetector.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+KeyPointsDetector.lib(KeyPointsParameters.obj) : warning LNK4099: 未找到 PDB“KeyPointsDetector.pdb”(使用“KeyPointsDetector.lib(KeyPointsParameters.obj)”或在“E:\github\DigitalMakeup\x64\Release\KeyPointsDetector.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+KeyPointsDetector.lib(Patch.obj) : warning LNK4099: 未找到 PDB“KeyPointsDetector.pdb”(使用“KeyPointsDetector.lib(Patch.obj)”或在“E:\github\DigitalMakeup\x64\Release\KeyPointsDetector.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+KeyPointsDetector.lib(KeyPointsFunction.obj) : warning LNK4099: 未找到 PDB“KeyPointsDetector.pdb”(使用“KeyPointsDetector.lib(KeyPointsFunction.obj)”或在“E:\github\DigitalMakeup\x64\Release\KeyPointsDetector.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+KeyPointsDetector.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“KeyPointsDetector.pdb”(使用“KeyPointsDetector.lib(stdafx.obj)”或在“E:\github\DigitalMakeup\x64\Release\KeyPointsDetector.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+KeyPointsDetector.lib(FPD.obj) : warning LNK4099: 未找到 PDB“KeyPointsDetector.pdb”(使用“KeyPointsDetector.lib(FPD.obj)”或在“E:\github\DigitalMakeup\x64\Release\KeyPointsDetector.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+KeyPointsDetector.lib(KeyPointsValidator.obj) : warning LNK4099: 未找到 PDB“KeyPointsDetector.pdb”(使用“KeyPointsDetector.lib(KeyPointsValidator.obj)”或在“E:\github\DigitalMakeup\x64\Release\KeyPointsDetector.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+KeyPointsDetector.lib(PAW.obj) : warning LNK4099: 未找到 PDB“KeyPointsDetector.pdb”(使用“KeyPointsDetector.lib(PAW.obj)”或在“E:\github\DigitalMakeup\x64\Release\KeyPointsDetector.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+KeyPointsDetector.lib(CCNF_patch_expert.obj) : warning LNK4099: 未找到 PDB“KeyPointsDetector.pdb”(使用“KeyPointsDetector.lib(CCNF_patch_expert.obj)”或在“E:\github\DigitalMakeup\x64\Release\KeyPointsDetector.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+KeyPointsDetector.lib(SVR_patch.obj) : warning LNK4099: 未找到 PDB“KeyPointsDetector.pdb”(使用“KeyPointsDetector.lib(SVR_patch.obj)”或在“E:\github\DigitalMakeup\x64\Release\KeyPointsDetector.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Makeup.lib(MakeupSyn.obj) : warning LNK4099: 未找到 PDB“Makeup.pdb”(使用“Makeup.lib(MakeupSyn.obj)”或在“E:\github\DigitalMakeup\x64\Release\Makeup.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Makeup.lib(CThinPlateSpline.obj) : warning LNK4099: 未找到 PDB“Makeup.pdb”(使用“Makeup.lib(CThinPlateSpline.obj)”或在“E:\github\DigitalMakeup\x64\Release\Makeup.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Makeup.lib(kptsDefine.obj) : warning LNK4099: 未找到 PDB“Makeup.pdb”(使用“Makeup.lib(kptsDefine.obj)”或在“E:\github\DigitalMakeup\x64\Release\Makeup.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  video.vcxproj -> E:\github\DigitalMakeup\x64\Release\video.exe
+  video.vcxproj -> E:\github\DigitalMakeup\x64\Release\video.pdb (Full PDB)
